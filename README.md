@@ -19,12 +19,3 @@ Check out the live versions of my solutions:
 
 - [Results Summary Component](https://muhammad-saad311.github.io/FrontEnd-Mentor-Challenges/results-summary-component-main/) - Build Using HTML, CSS Flex Box and Media Queries
 - [Challenge 2](https://muhammad-saad311.github.io/FrontEnd-Mentor-Challenges/) - Comming Soon
-
-## 📂 Repository Structure
-
-FrontEnd-Mentor-Challenges/
-├── challenge-1-name/
-│ 
-├── challenge-2-name/
-│
-└── ...
