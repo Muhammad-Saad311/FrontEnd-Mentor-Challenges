@@ -116,4 +116,4 @@ I completed this challenge solely and got no AI assistance.
 
 ## Author
 
-- Frontend Mentor - [@Muhammad-Saad311]](https://www.frontendmentor.io/profile/Muhammad-Saad311)
+- Frontend Mentor - [@Muhammad-Saad311](https://www.frontendmentor.io/profile/Muhammad-Saad311)
