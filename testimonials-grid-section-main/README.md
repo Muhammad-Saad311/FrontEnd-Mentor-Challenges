@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Live Site URL: [click here]([https://your-live-site-url.com](https://muhammad-saad311.github.io/FrontEnd-Mentor-Challenges/testimonials-grid-section-main/))
 
 ## My process
 
